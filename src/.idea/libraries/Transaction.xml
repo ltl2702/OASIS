@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Transaction">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Week6/out/production/Transaction/Transaction.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
